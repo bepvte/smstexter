@@ -1,0 +1,9 @@
+github.com/d2r2/go-max7219 v0.1.0 h1:iM385bty5AzJ/Q1AcwcGLOQHkRCEYYmFj3BaeAxiqYs=
+github.com/d2r2/go-max7219 v0.1.0/go.mod h1:EjbncwMvI4lYy1/GAZcv+r7wkMX/NAQn4MnuHQNBjvU=
+github.com/fulr/spidev v0.0.0-20150210165549-524e13e3fac2 h1:Bpecy8A24LtdIGkRUQTzoWf2mR0zkvxzAgTN5iP2iXM=
+github.com/fulr/spidev v0.0.0-20150210165549-524e13e3fac2/go.mod h1:bMLIIHSjkThym5s6mFw/1rkPjtUDvbxSK4xTe/ai2AM=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7 h1:lDH9UUVJtmYCjyT0CI4q8xvlXPxeZ0gYCVvWbmPlp88=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
+golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
+golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
